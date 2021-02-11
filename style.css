@@ -62,6 +62,32 @@
    position: absolute;
    bottom: 0;
    right: 0;
+<<<<<<< HEAD
    width: 100%;
+=======
+
+   width: 1440;
+   
+>>>>>>> 9a97f6e34aa7119eca5b5d7b0e7375b874cc784f
    
 }
+
+   
+}
+
+
+
+/* ----------------------------------blog------------------------------------ */
+.blog__pre-title {
+    text-align: center;
+    font-size: 10px;
+}
+.blog__title{
+    text-align: center;
+    font-size: 24px;
+}
+.blog__slider{
+    height: 503px;
+}
+/* ----------------------------------BLOG----------------------------------------- */
+
